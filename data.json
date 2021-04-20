@@ -1,0 +1,39 @@
+{
+    "cv": {
+        "personales": {
+            "NombreCompleto": "Alberto Jacinto Martínez Torres",
+            "NombreCorto": "Alberto Martínez",
+            "Ciudad": "Ciudad de México",
+            "cd": "CDMX",
+            "telefono": "+52 552 884 0485",
+            "Correo": "alberto@a81.biz"
+        },
+        "secciones": {
+            "Acerca de mi": [
+                "aquí va el resumen",
+                "separando los párrafos"
+            ],
+            "Experiencia": [
+                {
+                    "empresa": "Comisión Reguladora de Energía",
+                    "descripcion": "Empresa del Gobierno de mexicano que regula el sector energético",
+                    "cargo": "Subdirector de Desarrollo",
+                    "area": "Desarrollo de aplicaciones del usuario",
+                    "ciudad": "CDMX",
+                    "periodo": {
+                        "inicio": "may 2015",
+                        "fin": "actual"
+                    },
+                    "funciones": [
+                        "Lo que sea que se haga",
+                        "Otra cosa que se haga"
+                    ],
+                    "logros":[
+                        "Los logros que se hayan logrado",
+                        "algun otro logro logrado"
+                    ]
+                }
+            ]
+        }
+    }
+}
