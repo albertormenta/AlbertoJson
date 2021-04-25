@@ -38,6 +38,12 @@
             },
             "correo": "alberto@a81.biz",
             "telefono": "+52 552 884 0485"
+        },
+        "redesSociales":{
+            "twitter" : "ladeltwitter",
+            "Instagram" : "delinstagram",
+            "github" : "delgithub",
+            "behance": "delbehance"
         }
     }
 }
